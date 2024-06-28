@@ -533,7 +533,7 @@
 
                     echo "
                         <li>
-                            <a href='./products.php?pId=$pId'>
+                            <a href='./product.php?pId=$pId'>
                                 <img src='./uploads/$pImage' alt=''>
                                 <div>
                                     <h4>$pName</h4>
