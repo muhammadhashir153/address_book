@@ -44,7 +44,7 @@
                     </div>
 
                     <div class="col-6 col-sm-6 col-md-4">
-                        <h4>Top Categpries</h4>
+                        <h4>Top Categories</h4>
                         <ul class="list-unstyled">
                             <?php
                                 $sqlQuery = "SELECT * FROM categories ORDER BY RAND() LIMIT 4";
